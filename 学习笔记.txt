@@ -1,0 +1,7 @@
+git checkout -b main    //创建并切换到main分支
+
+git add .
+
+git commit -m "注释"
+
+git push git@github.com:1van-zys/Cyberoracle.git main
