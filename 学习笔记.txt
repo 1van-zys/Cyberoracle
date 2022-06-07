@@ -5,3 +5,6 @@ git add .
 git commit -m "注释"
 
 git push git@github.com:1van-zys/Cyberoracle.git main
+
+解决fatal: 'origin' does not appear to be a git repository
+git remote add origin git@github.com:xxse/xx.git
