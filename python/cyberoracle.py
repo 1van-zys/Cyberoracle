@@ -77,6 +77,16 @@ def bengua(liuyao):
     return num 
 
 '''
+综卦
+'''
+def zonggua(liuyao):
+    liuyao.reverse()
+    return liuyao
+
+
+
+
+'''
 变卦
 '''
 
